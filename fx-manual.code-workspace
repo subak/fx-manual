@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown-pdf.styles": [
+            "./style.css"
+        ],
+		"markdown-pdf.headerTemplate": " "
+	}
+}
